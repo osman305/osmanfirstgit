@@ -3,7 +3,15 @@ clear the construction site
 mark the site area
 mark the columns
 
-
+start work on columns
+dug 4 feet deep for columns
+all columns are dug
+all columns are stepped
+steel bars are inserted in columns area.
+all gaps are filled acooeding to stepped column method till neck
+and remaining gaps are filled with soil
+now starter is placed on the neck of column
+now columns are placed on the top of starter
 
 
 
